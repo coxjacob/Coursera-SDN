@@ -43,7 +43,7 @@ Run Mininet script `learning_switch_acl_mininet.py`.
 
 ``` bash
 $ cd ~
-$ sudopy ~/netasm/netasm/examples/learning_switch_acl/learning_switch_acl_mininet.py
+$ sudopy python netasm/netasm/examples/learning_switch_acl/learning_switch_acl_mininet.py
 ```
 
 > Note: make sure that you run this and the remaining scripts using `sudopy`
